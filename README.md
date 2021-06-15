@@ -5,7 +5,7 @@ FrontEnd: React <br/>
 
 ## Project Screen Shot(s)
 
-![covid](https://user-images.githubusercontent.com/59021083/122061539-e69ea800-cdee-11eb-8151-ef582c3d9c20.png)
+![screencapture-localhost-3000-2021-06-15-15_38_36](https://user-images.githubusercontent.com/59021083/122062555-ce7b5880-cdef-11eb-8faf-a4ee3740cd38.png)
 
 ## Installation and Setup Instructions
 
