@@ -1,7 +1,8 @@
+import { DashBoard } from './components/DashBoard/DashBoard';
 export const Covid19API = () => {
   return (
-    <div>
-      <h1>Hola mundo</h1>
-    </div>
+    <>
+      <DashBoard />
+    </>
   );
 };
