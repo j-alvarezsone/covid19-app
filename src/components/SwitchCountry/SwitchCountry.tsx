@@ -16,6 +16,7 @@ export const SwitchCountry: React.FC = () => {
   const dispatch = useAppDispatch();
 
   const countries = [
+    'Czech Republic',
     'japan',
     'us',
     'germany',
@@ -29,7 +30,6 @@ export const SwitchCountry: React.FC = () => {
     'thailand',
     'new zealand',
     'sweden',
-    'Czech Republic',
   ];
 
   return (
